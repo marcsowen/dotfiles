@@ -1,7 +1,9 @@
 #!/bin/bash
 
 rm ~/.vimrc
+rm ~/.bash_profile
 rm -r ~/.vim
 ln -s ~/dotfiles/vimrc ~/.vimrc
 ln -s ~/dotfiles/molokai  ~/.vim
+ln -s ~/dotfiles/bash_profile ~/.bash_profile
 

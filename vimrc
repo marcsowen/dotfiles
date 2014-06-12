@@ -20,7 +20,7 @@ set nowrap
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
-set noexpandtab
+set expandtab
 
 " Show trailing spaces and highlight hard tabs
 set list listchars=tab:»\ ,trail:·
